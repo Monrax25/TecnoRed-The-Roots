@@ -1,0 +1,134 @@
+body{
+	font-family: Arial;
+	background: darkred;
+}
+
+.menu{
+	border: 5px solid; color: black;
+	list-style: none;
+	padding: 0px;
+	background: black;
+	width: 90%;
+	max-width: 702px;
+	margin: auto;
+}
+
+.menu li a{
+	border: 5px solid; color: red;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: purple;
+}
+
+{
+	margin: auto;
+	padding: 0px;
+}
+
+div#gen{
+	margin: auto;
+	width: 1285px;
+	height: 3450px;
+	border: 10px solid; color: black;
+	background-color: #B5DFF8;
+}
+
+div#PorTamaño{
+	margin: 10px;
+	width: 1265px;
+	height: 1000px;
+	background-color: blueviolet;
+}
+
+div#PorDistribuciónDeFunciones{
+	margin: 10px;
+	width: 1265px;
+	height: 695px;
+	background-color: blueviolet;
+}
+
+div#PDDFIntLeft{
+	float: left;
+	margin: 20px;
+	width: 590px;
+	height: 565px;
+	background-color: royalblue;
+}
+
+div#PDDFIntRight{
+	float: right;
+	margin: 20px;
+	width: 590px;
+	height: 565px;
+	background-color: royalblue;
+}
+
+div#PorTopología{
+	margin: 10px;
+	width: 1265px;
+	height: 1150px;
+	background-color: blueviolet;
+}
+
+div#PTIntLeft{
+	float: left;
+	margin: 20px;
+	width: 590px;
+	height: 900px;
+	background-color: royalblue;
+}
+
+div#PTIntRight{
+	float: right;
+	margin: 20px;
+	width: 590px;
+	height: 900px;
+	background-color: royalblue;
+}
+
+div#PTIntRecLeft{
+	float: left;
+	margin: 25px;
+	width: 525px;
+	height: 500px;
+	background-color: royalblue;
+}
+
+div#PTIntRecRight{
+	float: right;
+	margin: 25px;
+	width: 525px;
+	height: 500px;
+	background-color: royalblue;
+}
+
+div#PTXIntXLeft{
+	float: left;
+	width: 250px;
+	height: 250px;
+	background-color: royalblue;
+}
+
+div#PTXIntXRight{
+	float: right;
+	width: 250px;
+	height: 250px;
+	background-color: royalblue;
+}
+
+div#footer{
+	float: center;
+	width: 1850px;
+	height: 45px;
+	background-color: orangered;
+}

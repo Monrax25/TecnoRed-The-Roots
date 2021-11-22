@@ -1,0 +1,110 @@
+body{
+	font-family: Arial;
+	background: darkred;
+}
+
+.menu{
+	border: 5px solid; color: black;
+	list-style: none;
+	padding: 0px;
+	background: black;
+	width: 90%;
+	max-width: 702px;
+	margin: auto;
+}
+
+.menu li a{
+	border: 5px solid; color: red;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: purple;
+}
+
+{
+	margin: auto;
+	padding: 0px;
+}
+
+div#gen{
+	margin: auto;
+	width: 1285px;
+	height: 1312px;
+	border: 10px solid; color: black;
+	background-color: purple;
+}
+
+div#rectop{
+	width: 1285px;
+	height: 195px;
+	background-color: orangered;
+}
+
+div#recmid{
+	width: 1285px;
+	height: 790px;
+	background-color: purple;
+}
+
+div#footer{
+	width: 1885px;
+	height: 45px;
+	background-color: orangered;
+}
+
+div#cuadimg{
+	float: right;
+	width: 495px;
+	height: 750px;
+	border: 10px; color: black;
+	background-color: darkgreen;
+}
+
+div#recmidint{
+	float: left;
+	width: 295px;
+	height: 275px;
+	background-color: #99FFCD;
+}
+
+div#recmidintgen{
+	float: center;
+	width: 1285px;
+	height: 580px;
+	background-color: purple;
+}
+
+div#recmidint2{
+	float: right;
+	width: 450px;
+	height: 435px;
+	border: 10px solid; color: black;
+	background-color: grey;
+}
+
+div#recmidint3{
+	float: left;
+	width: 450px;
+	height: 435px;
+	border: 10px solid; color: black;
+	background-color: grey;
+}
+
+div#recmidint4{
+	float: center;
+	width: 850px;
+	height: 435px;
+	border: 10px solid; color: black;
+	background-color: grey;
+}
+
+

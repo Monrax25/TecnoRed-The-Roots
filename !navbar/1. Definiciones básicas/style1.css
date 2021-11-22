@@ -1,0 +1,71 @@
+body{
+	font-family: Arial;
+	background: darkred;
+}
+
+.menu{
+	border: 5px solid; color: black;
+	list-style: none;
+	padding: 0px;
+	background: black;
+	width: 90%;
+	max-width: 702px;
+	margin: auto;
+}
+
+.menu li a{
+	border: 5px solid; color: red;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: purple;
+}
+
+{
+	margin: auto;
+	padding: 0px;
+}
+
+div#gen{
+	margin: auto;
+	width: 1285px;
+	height: 1312px;
+	border: 10px solid; color: black;
+	background-color: red;
+}
+
+div#cuadtop{
+	width: 500px;
+	height: 500px;
+	border: 10px solid; color: darkred;
+	background-color: grey;
+}
+
+div#recmid{
+	width: 1145px;
+	height: 250px;
+	background-color: grey;
+}
+
+div#cuadtop2{
+	float: left;
+	width: 350px;
+	height: 350px;
+	background-color: grey;
+}
+
+div#footer{
+	float: center;
+	width: 1885px;
+	height: 45px;
+	background-color: orangered;
+}

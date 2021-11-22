@@ -1,0 +1,199 @@
+body{
+	font-family: Arial;
+	background: darkred;
+}
+
+.menu{
+	border: 5px solid; color: black;
+	list-style: none;
+	padding: 0px;
+	background: black;
+	width: 90%;
+	max-width: 702px;
+	margin: auto;
+}
+
+.menu li a{
+	border: 5px solid; color: red;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: purple;
+}
+
+div#Formulario{
+	background: none;
+	text-align: left;
+	width: 700px;
+	height: 1425px;
+}
+
+div#secuser{
+	width: 500px;
+	height: 250;
+}
+
+div#secgen{
+	width: 500px;
+	height: 100px;
+}
+
+div#secnation{
+	width: 500px;
+	height: 100px;
+}
+
+div#secdell{
+	background: none;
+	width: 250px;
+	height: 250px;
+}
+
+div#secdellint{
+	text-align: left;
+	background: darkred;
+	width: 250px;
+	height: 250px;
+}
+
+div#secdellXintX{
+	float: right;
+	background: none;
+	width: 45px;
+	height: 200px;
+}
+
+div#textbox{
+	padding-top: 150px; 
+	background: darkred;
+	width: 250px;
+	height: 150;
+}
+
+div#recR{
+	border: 25px solid; color: black;
+	float: right;
+	background: purple;
+	width: 500px;
+	height: 1650px;
+}
+
+div#recinterR{
+	float: center;
+	margin: 25px;
+	border: 15px solid; color: white;
+	background: #F3377C;
+	width: 420px;
+	height: 462px;
+}
+
+div#recXinterRXL{
+	background: none;
+	float: left;
+	margin-left: 5px;
+	width: 225px;
+	height: 165px;
+}
+
+div#text-borderXlX{
+	text-align: center;
+	background: none;
+	font-family: 'calibri';
+	font-size: 22px;
+		-webkit-text-fill-color: white;
+		-webkit-text-stroke: 1px;
+		-webkit-text-stroke-color: red;
+}
+
+div#recXinterRXR{
+	padding-top: 28px;
+	background: none;
+	float: right;
+	margin-left: 50px;
+	width: 225px;
+	height: 175px;
+}
+
+div#text-borderXrX{
+	text-align: center;
+	background: none;
+	font-family: 'calibri';
+	font-size: 22px;
+		-webkit-text-fill-color: white;
+		-webkit-text-stroke: 1px;
+		-webkit-text-stroke-color: blue;
+}
+
+div#recL{
+	font-family: 'saiyan_sansregular';
+	border: 25px solid; color: black;
+	float: left;
+	background: purple;
+	width: 500px;
+	height: 1650px;
+}
+
+div#recinterL{
+	font-family: 'saiyan_sansregular';
+	float: center;
+	margin: 25px;
+	border: 15px solid; color: white;
+	background: black;
+	width: 420px;
+	height: 1350px;
+}
+
+div#subres{
+	padding-top: 0px;
+	background: none;
+	width: 650px;
+	height: 50px;
+}
+
+div#tip{
+	padding-top: 65px;
+	background: darkred;
+	width: 250px;
+	height: 100px;
+}
+
+@font-face {
+	font-family: 'saiyan_sansregular';
+    src: url('Fuentes/SaiyanFont/saiyan-sans-webfont.woff2') format('woff2'),
+         url('Fuentes/SaiyanFont/saiyan-sans-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+div#text-border{
+	text-align: center;
+	background: orangered;
+	font-family: 'saiyan_sansregular';
+	font-size: 30px;
+		-webkit-text-fill-color: orange;
+		-webkit-text-stroke: 1px;
+}
+
+div#prefooter{
+	margin: 165px 0px 0px 0px;
+	height: 5px;
+	background: none;
+}
+
+div#footer{
+	background-color: orangered; 
+	width: 1885px; 
+	height: 120px;
+}
+
+
